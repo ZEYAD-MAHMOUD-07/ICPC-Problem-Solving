@@ -4,8 +4,8 @@ This repository contains my solutions to various ICPC-style programming problems
 
 ## 📁 Folder Structure
 
-- Sheet1/: Basic math and logic problems
-- Sheet2/: Primes, sorting, and searching problems
+- Level 1/: Strings, primes , general problems
+- Level 2/: STLS , Binary Search , Number theory , icpc gyms problems
 
 ## ✅ Goals
 
